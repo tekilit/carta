@@ -1,0 +1,18 @@
+body { 
+    margin: 16;
+    font-family: 'Homemade Apple', cursive;
+}
+
+
+ .text-right { 
+     text-align: right;
+ }
+
+ body {
+    display: block;
+    margin: 25px;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+}
