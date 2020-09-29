@@ -3,7 +3,10 @@
     font-family: 'Homemade Apple', cursive;
     
 }
-
+#respuesta {
+    color: blue;
+    text-decoration: underline overline
+}
 
  .text-right { 
      text-align: right;
@@ -16,4 +19,10 @@
     margin-right: 25px;
     margin-bottom: 25px;
     margin-left: 25px;
+}
+.myDiv {
+    border: 1px outset black;
+    margin: 25px;
+    padding: 15px;
+  
 }
